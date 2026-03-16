@@ -67,7 +67,7 @@ def gemini_generate(prompt, api_key):
 
 def build_article(tech_name, lang, api_key):
     slug = slugify(tech_name)
-    prompt = f"""Write a comprehensive {TOPIC_TITLE} guide for "{tech_name}" in {lang}.
+    prompt = f"""Write a comprehensive Yoga Pose guide for "{tech_name}" in {lang}.
 Return JSON:
 {{
   "title": "SEO optimized page title",
