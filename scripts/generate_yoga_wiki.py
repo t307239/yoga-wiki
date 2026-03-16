@@ -8,7 +8,7 @@ import os, json, time, datetime, urllib.request, urllib.error, re
 SITE_URL   = "https://t307239.github.io/yoga-wiki"
 AMAZON_TAG = "bjj06-22"
 GA4_ID     = "G-7LM8L3TRZM"
-ADSENSE    = "ca-pub-3285779374433925"
+ADSENSE    = "ca-pub-5529701443220352"
 
 TECHNIQUES = [
     "Downward Dog",
