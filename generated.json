@@ -532,6 +532,262 @@
       "category": "sequence",
       "difficulty": "beginner",
       "sanskrit": "Flexibility Flow"
+    },
+    {
+      "slug": "childs-pose",
+      "name": "Child's Pose"
+    },
+    {
+      "slug": "corpse-pose",
+      "name": "Corpse Pose"
+    },
+    {
+      "slug": "staff-pose",
+      "name": "Staff Pose"
+    },
+    {
+      "slug": "mountain-pose-variation",
+      "name": "Mountain Pose II"
+    },
+    {
+      "slug": "downward-dog-variation",
+      "name": "Downward Dog Variation"
+    },
+    {
+      "slug": "warrior-i-variation",
+      "name": "Warrior I Variation"
+    },
+    {
+      "slug": "triangle-pose",
+      "name": "Triangle Pose"
+    },
+    {
+      "slug": "extended-side-angle",
+      "name": "Extended Side Angle"
+    },
+    {
+      "slug": "half-moon-pose",
+      "name": "Half Moon Pose"
+    },
+    {
+      "slug": "pyramid-pose",
+      "name": "Pyramid Pose"
+    },
+    {
+      "slug": "revolved-triangle",
+      "name": "Revolved Triangle"
+    },
+    {
+      "slug": "chair-pose-variation",
+      "name": "Chair Pose Variation"
+    },
+    {
+      "slug": "wide-legged-forward-fold",
+      "name": "Wide Legged Forward Fold"
+    },
+    {
+      "slug": "goddess-pose",
+      "name": "Goddess Pose"
+    },
+    {
+      "slug": "warrior-lunge",
+      "name": "Warrior Lunge"
+    },
+    {
+      "slug": "easy-pose",
+      "name": "Easy Pose"
+    },
+    {
+      "slug": "hero-pose",
+      "name": "Hero Pose"
+    },
+    {
+      "slug": "lotus-pose",
+      "name": "Lotus Pose"
+    },
+    {
+      "slug": "bound-angle-pose",
+      "name": "Bound Angle Pose"
+    },
+    {
+      "slug": "seated-forward-fold",
+      "name": "Seated Forward Fold"
+    },
+    {
+      "slug": "boat-pose",
+      "name": "Boat Pose"
+    },
+    {
+      "slug": "camel-pose-prep",
+      "name": "Camel Pose Prep"
+    },
+    {
+      "slug": "pigeon-pose-prep",
+      "name": "Pigeon Pose Prep"
+    },
+    {
+      "slug": "sage-pose",
+      "name": "Sage Pose"
+    },
+    {
+      "slug": "half-spinal-twist",
+      "name": "Half Spinal Twist"
+    },
+    {
+      "slug": "bridge-pose",
+      "name": "Bridge Pose"
+    },
+    {
+      "slug": "supine-twist",
+      "name": "Supine Twist"
+    },
+    {
+      "slug": "reclining-hero-pose",
+      "name": "Reclining Hero Pose"
+    },
+    {
+      "slug": "legs-up-the-wall",
+      "name": "Legs Up The Wall"
+    },
+    {
+      "slug": "wind-relieving-pose",
+      "name": "Wind Relieving Pose"
+    },
+    {
+      "slug": "knee-to-chest-pose",
+      "name": "Knee To Chest Pose"
+    },
+    {
+      "slug": "supine-butterfly",
+      "name": "Supine Butterfly"
+    },
+    {
+      "slug": "fish-pose-variation",
+      "name": "Fish Pose Variation"
+    },
+    {
+      "slug": "sphinx-pose",
+      "name": "Sphinx Pose"
+    },
+    {
+      "slug": "crocodile-pose",
+      "name": "Crocodile Pose"
+    },
+    {
+      "slug": "plank-pose",
+      "name": "Plank Pose"
+    },
+    {
+      "slug": "side-plank-pose",
+      "name": "Side Plank Pose"
+    },
+    {
+      "slug": "four-limbed-staff-pose",
+      "name": "Four Limbed Staff Pose"
+    },
+    {
+      "slug": "upward-facing-dog",
+      "name": "Upward Facing Dog"
+    },
+    {
+      "slug": "reverse-plank",
+      "name": "Reverse Plank"
+    },
+    {
+      "slug": "dolphin-pose",
+      "name": "Dolphin Pose"
+    },
+    {
+      "slug": "forearm-balance",
+      "name": "Forearm Balance"
+    },
+    {
+      "slug": "lizard-pose",
+      "name": "Lizard Pose"
+    },
+    {
+      "slug": "dragon-pose",
+      "name": "Dragon Pose"
+    },
+    {
+      "slug": "shoelace-pose",
+      "name": "Shoelace Pose"
+    },
+    {
+      "slug": "swan-pose",
+      "name": "Swan Pose"
+    },
+    {
+      "slug": "sleeping-swan",
+      "name": "Sleeping Swan"
+    },
+    {
+      "slug": "banana-pose",
+      "name": "Banana Pose"
+    },
+    {
+      "slug": "cobra-pose-variation",
+      "name": "Cobra Pose Variation"
+    },
+    {
+      "slug": "upward-bow-prep",
+      "name": "Upward Bow Prep"
+    },
+    {
+      "slug": "locust-pose-variation",
+      "name": "Locust Pose Variation"
+    },
+    {
+      "slug": "bow-pose-prep",
+      "name": "Bow Pose Prep"
+    },
+    {
+      "slug": "king-cobra-pose",
+      "name": "King Cobra Pose"
+    },
+    {
+      "slug": "downward-dog-to-plank",
+      "name": "Downward Dog to Plank"
+    },
+    {
+      "slug": "legs-over-head",
+      "name": "Legs Over Head"
+    },
+    {
+      "slug": "plow-pose-variation",
+      "name": "Plow Pose Variation"
+    },
+    {
+      "slug": "shoulder-stand-prep",
+      "name": "Shoulder Stand Prep"
+    },
+    {
+      "slug": "yin-frog-pose",
+      "name": "Yin Frog Pose"
+    },
+    {
+      "slug": "butterfly-fold",
+      "name": "Butterfly Fold"
+    },
+    {
+      "slug": "melting-heart-pose",
+      "name": "Melting Heart Pose"
+    },
+    {
+      "slug": "caterpillar-pose",
+      "name": "Caterpillar Pose"
+    },
+    {
+      "slug": "snail-pose",
+      "name": "Snail Pose"
+    },
+    {
+      "slug": "square-pose",
+      "name": "Square Pose"
+    },
+    {
+      "slug": "reclining-pigeon",
+      "name": "Reclining Pigeon"
     }
   ]
 }

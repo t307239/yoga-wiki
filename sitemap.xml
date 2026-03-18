@@ -1,1556 +1,3283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://t307239.github.io/yoga-wiki/</loc><changefreq>monthly</changefreq><priority>1.0</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/downward-dog.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/warrior-i.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/warrior-ii.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/tree-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/cobra-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/mountain-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/bridge-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/chair-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/pigeon-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/camel-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/fish-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/headstand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/crow-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/eagle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/warrior-iii.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/side-plank.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/boat-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/bow-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/wheel-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/lizard-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/low-lunge.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/garland-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/firefly-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/shoulder-stand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/sun-salutation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/cat-cow.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/locust-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/happy-baby.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/seated-forward-bend.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/child-s-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/corpse-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/legs-up-the-wall.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/plank-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/puppy-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/reverse-warrior.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/extended-side-angle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/triangle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/half-moon-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/forward-fold.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/wide-legged-forward-fold.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/pigeon-pose-supine.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/dolphin-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/forearm-stand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/handstand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/revolved-triangle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/reclined-twist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/seated-twist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/upward-dog.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/chaturanga.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/reclining-hero-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/staff-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/hero-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/easy-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/lotus-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/bound-angle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/cow-face-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/gate-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/lord-of-the-dance.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/scorpion-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/sphinx-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/en/camel-pose-variation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/downward-dog.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/warrior-i.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/warrior-ii.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/tree-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/cobra-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/mountain-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/bridge-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/chair-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/pigeon-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/camel-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/fish-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/headstand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/crow-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/eagle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/warrior-iii.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/side-plank.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/boat-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/bow-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/wheel-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/lizard-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/low-lunge.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/garland-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/firefly-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/shoulder-stand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/sun-salutation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/cat-cow.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/locust-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/happy-baby.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/seated-forward-bend.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/child-s-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/corpse-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/legs-up-the-wall.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/plank-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/puppy-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/reverse-warrior.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/extended-side-angle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/triangle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/half-moon-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/forward-fold.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/wide-legged-forward-fold.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/pigeon-pose-supine.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/dolphin-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/forearm-stand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/handstand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/revolved-triangle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/reclined-twist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/seated-twist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/upward-dog.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/chaturanga.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/reclining-hero-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/staff-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/hero-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/easy-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/lotus-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/bound-angle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/cow-face-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/gate-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/lord-of-the-dance.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/scorpion-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/sphinx-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/ja/camel-pose-variation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/downward-dog.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/warrior-i.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/warrior-ii.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/tree-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/cobra-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/mountain-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/bridge-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/chair-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/pigeon-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/camel-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/fish-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/headstand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/crow-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/eagle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/warrior-iii.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/side-plank.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/boat-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/bow-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/wheel-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/lizard-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/low-lunge.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/garland-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/firefly-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/shoulder-stand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/sun-salutation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/cat-cow.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/locust-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/happy-baby.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/seated-forward-bend.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/child-s-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/corpse-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/legs-up-the-wall.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/plank-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/puppy-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/reverse-warrior.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/extended-side-angle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/triangle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/half-moon-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/forward-fold.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/wide-legged-forward-fold.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/pigeon-pose-supine.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/dolphin-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/forearm-stand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/handstand.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/revolved-triangle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/reclined-twist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/seated-twist.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/upward-dog.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/chaturanga.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/reclining-hero-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/staff-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/hero-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/easy-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/lotus-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/bound-angle-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/cow-face-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/gate-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/lord-of-the-dance.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/scorpion-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/sphinx-pose.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
-  <url><loc>https://t307239.github.io/yoga-wiki/pt/camel-pose-variation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-03-18</lastmod></url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/warrior-iv.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/index.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/banana-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bedtime-yoga-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/big-toe-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/boat-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/boat-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bound-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bound-seated-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bow-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bow-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/bridge-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/butterfly-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/camel-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/camel-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/camel-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/cat-cow.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/caterpillar-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/chair-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/chair-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/chaturanga.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/child-s-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/childs-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/cobra-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/cobra-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/corpse-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/cow-face-pose-arms.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/cow-face-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/crane-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/crescent-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/crocodile-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/crow-pose-preparation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/crow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/deep-camel-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/dolphin-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/dolphin-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/double-pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/downward-dog-to-plank.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/downward-dog-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/downward-dog.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/dragon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/eagle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/ear-pressure-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/easy-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/easy-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/eight-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/extended-side-angle.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/feathered-peacock-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/fire-log-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/firefly-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/fish-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/fish-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/flexibility-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/flying-pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/forearm-balance.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/forearm-stand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/forward-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/four-limbed-staff-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/frog-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/garland-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/gate-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/goddess-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/grasshopper-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/half-hero-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/half-lord-of-the-fishes-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/half-lotus-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/half-lotus-tree-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/half-moon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/half-spinal-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/handstand-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/handstand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/happy-baby-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/happy-baby.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/head-to-knee-forward-bend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/headstand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/hero-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/high-lunge.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/hip-opening-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/intense-side-stretch.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/king-cobra-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/knee-to-chest-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/legs-over-head.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/legs-up-bolster.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/legs-up-the-wall-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/legs-up-the-wall.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/lion-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/lizard-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/lizard-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/locust-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/locust-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/lord-of-the-dance.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/lotus-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/low-backbend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/low-lunge.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/melting-heart-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/moon-salutation-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/morning-yoga-routine.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/mountain-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/mountain-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/one-legged-chair-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/one-legged-king-pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/peacock-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/pigeon-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/pigeon-pose-supine.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/plank-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/plank-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/plow-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/plow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/prayer-squat.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/puppy-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/pyramid-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reclined-butterfly-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reclined-twist-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reclined-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reclining-hero-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reclining-pigeon.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reverse-plank.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/reverse-warrior.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/revolved-chair-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/revolved-side-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/revolved-triangle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/revolved-triangle.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/sage-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/savasana-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/scorpion-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/seated-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/seated-forward-bend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/seated-forward-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/seated-mountain-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/seated-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/seated-wide-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/shoelace-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/shoulder-stand-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/shoulder-stand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/side-crow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/side-plank-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/side-plank-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/side-plank.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/sleeping-swan.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/snail-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/sphinx-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/square-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/staff-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/standing-bow-pulling-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/standing-half-forward-bend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/standing-hand-to-big-toe-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/standing-split.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/star-side-plank.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/strength-building-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/sun-salutation-b.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/sun-salutation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supine-butterfly.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supine-spinal-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supine-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supported-bridge-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supported-child-s-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supported-fish-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supported-headstand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/supported-shoulderstand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/swan-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/thunderbolt-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/tortoise-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/tree-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/triangle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/upward-bow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/upward-bow-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/upward-dog.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/upward-facing-dog.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-i-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-i.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-ii.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-iii-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-iii.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-iv.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/warrior-lunge.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/wheel-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/wide-angle-seated-forward-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/wide-legged-forward-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/wide-legged-standing-forward-fold-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/wild-thing-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/wind-relieving-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/en/yin-frog-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/banana-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bedtime-yoga-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/big-toe-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/boat-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/boat-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bound-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bound-seated-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bow-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bow-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/bridge-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/butterfly-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/camel-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/camel-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/camel-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/cat-cow.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/caterpillar-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/chair-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/chair-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/chaturanga.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/child-s-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/childs-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/cobra-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/cobra-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/corpse-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/cow-face-pose-arms.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/cow-face-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/crane-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/crescent-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/crocodile-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/crow-pose-preparation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/crow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/deep-camel-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/dolphin-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/dolphin-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/double-pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/downward-dog-to-plank.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/downward-dog-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/downward-dog.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/dragon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/eagle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/ear-pressure-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/easy-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/easy-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/eight-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/extended-side-angle.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/feathered-peacock-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/fire-log-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/firefly-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/fish-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/fish-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/flexibility-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/flying-pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/forearm-balance.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/forearm-stand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/forward-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/four-limbed-staff-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/frog-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/garland-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/gate-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/goddess-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/grasshopper-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/half-hero-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/half-lord-of-the-fishes-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/half-lotus-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/half-lotus-tree-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/half-moon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/half-spinal-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/handstand-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/handstand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/happy-baby-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/happy-baby.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/head-to-knee-forward-bend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/headstand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/hero-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/high-lunge.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/hip-opening-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/intense-side-stretch.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/king-cobra-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/knee-to-chest-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/legs-over-head.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/legs-up-bolster.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/legs-up-the-wall-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/legs-up-the-wall.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/lion-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/lizard-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/lizard-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/locust-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/locust-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/lord-of-the-dance.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/lotus-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/low-backbend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/low-lunge.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/melting-heart-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/moon-salutation-sequence.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/morning-yoga-routine.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/mountain-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/mountain-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/one-legged-chair-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/one-legged-king-pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/peacock-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/pigeon-pose-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/pigeon-pose-supine.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/pigeon-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/plank-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/plank-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/plow-pose-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/plow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/prayer-squat.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/puppy-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/pyramid-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reclined-butterfly-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reclined-twist-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reclined-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reclining-hero-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reclining-pigeon.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reverse-plank.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/reverse-warrior.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/revolved-chair-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/revolved-side-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/revolved-triangle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/revolved-triangle.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/sage-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/savasana-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/scorpion-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/seated-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/seated-forward-bend.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/seated-forward-fold.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/seated-mountain-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/seated-twist.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/seated-wide-angle-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/shoelace-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/shoulder-stand-prep.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/shoulder-stand.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/side-crow-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/side-plank-pose.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://t307239.github.io/yoga-wiki/ja/side-plank-variation.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/warrior-iv.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/side-plank.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/warrior-iv.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/sleeping-swan.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/crescent-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/snail-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/crescent-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/sphinx-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/crescent-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/square-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/prayer-squat.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/staff-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/prayer-squat.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/standing-bow-pulling-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/prayer-squat.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/standing-half-forward-bend.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/standing-split.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/standing-hand-to-big-toe-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/standing-split.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/standing-split.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/standing-split.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/star-side-plank.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/wide-legged-standing-forward-fold-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/strength-building-sequence.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/wide-legged-standing-forward-fold-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/sun-salutation-b.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/wide-legged-standing-forward-fold-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/sun-salutation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/revolved-triangle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supine-butterfly.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/revolved-triangle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supine-spinal-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/revolved-triangle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supine-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/revolved-side-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supported-bridge-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/revolved-side-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supported-child-s-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/revolved-side-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supported-fish-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/high-lunge.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supported-headstand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/high-lunge.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/supported-shoulderstand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/high-lunge.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/swan-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/standing-bow-pulling-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/thunderbolt-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/standing-bow-pulling-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/tortoise-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/standing-bow-pulling-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/tree-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/standing-hand-to-big-toe-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/triangle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/standing-hand-to-big-toe-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/upward-bow-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/standing-hand-to-big-toe-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/upward-bow-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/warrior-iii-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/upward-dog.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/warrior-iii-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/upward-facing-dog.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/warrior-iii-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-i-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/side-plank-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-i.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/side-plank-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-ii.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/side-plank-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-iii-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/big-toe-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-iii.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/big-toe-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-iv.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/big-toe-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/warrior-lunge.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/one-legged-chair-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/wheel-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/one-legged-chair-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/wide-angle-seated-forward-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/one-legged-chair-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/wide-legged-forward-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/half-lotus-tree-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/wide-legged-standing-forward-fold-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/half-lotus-tree-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/wild-thing-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/half-lotus-tree-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/wind-relieving-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/upward-bow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/ja/yin-frog-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/upward-bow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/banana-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/upward-bow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bedtime-yoga-sequence.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/one-legged-king-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/big-toe-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/one-legged-king-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/boat-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/one-legged-king-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/boat-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/supported-fish-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bound-angle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/supported-fish-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bound-seated-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/supported-fish-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bow-pose-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/bow-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bow-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/bow-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bow-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/bow-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/bridge-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/low-backbend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/butterfly-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/low-backbend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/camel-pose-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/low-backbend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/camel-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/deep-camel-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/camel-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/deep-camel-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/cat-cow.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/deep-camel-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/caterpillar-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/wild-thing-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/chair-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/wild-thing-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/chair-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/wild-thing-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/chaturanga.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/supported-bridge-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/child-s-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/supported-bridge-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/childs-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/supported-bridge-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/cobra-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/wide-angle-seated-forward-fold.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/cobra-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/wide-angle-seated-forward-fold.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/corpse-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/wide-angle-seated-forward-fold.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/cow-face-pose-arms.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/head-to-knee-forward-bend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/cow-face-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/head-to-knee-forward-bend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/crane-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/head-to-knee-forward-bend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/crescent-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/intense-side-stretch.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/crocodile-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/intense-side-stretch.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/crow-pose-preparation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/intense-side-stretch.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/crow-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/standing-half-forward-bend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/deep-camel-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/standing-half-forward-bend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/dolphin-pose-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/standing-half-forward-bend.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/dolphin-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/seated-wide-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/double-pigeon-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/seated-wide-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/downward-dog-to-plank.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/seated-wide-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/downward-dog-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/tortoise-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/downward-dog.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/tortoise-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/dragon-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/tortoise-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/eagle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/fire-log-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/ear-pressure-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/fire-log-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/easy-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/fire-log-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/easy-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/double-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/eight-angle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/double-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/extended-side-angle.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/double-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/feathered-peacock-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/lizard-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/fire-log-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/lizard-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/firefly-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/lizard-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/fish-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/frog-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/fish-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/frog-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/flexibility-sequence.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/frog-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/flying-pigeon-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/happy-baby-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/forearm-balance.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/happy-baby-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/forearm-stand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/happy-baby-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/forward-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/seated-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/four-limbed-staff-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/seated-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/frog-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/seated-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/garland-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/half-lotus-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/gate-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/half-lotus-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/goddess-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/half-lotus-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/grasshopper-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/supine-spinal-twist.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/half-hero-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/supine-spinal-twist.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/half-lord-of-the-fishes-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/supine-spinal-twist.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/half-lotus-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/half-lord-of-the-fishes-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/half-lotus-tree-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/half-lord-of-the-fishes-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/half-moon-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/half-lord-of-the-fishes-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/half-spinal-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/bound-seated-twist.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/handstand-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/bound-seated-twist.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/handstand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/bound-seated-twist.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/happy-baby-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/revolved-chair-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/happy-baby.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/revolved-chair-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/head-to-knee-forward-bend.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/revolved-chair-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/headstand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/reclined-twist-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/hero-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/reclined-twist-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/high-lunge.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/reclined-twist-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/hip-opening-sequence.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/legs-up-the-wall-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/intense-side-stretch.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/legs-up-the-wall-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/king-cobra-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/legs-up-the-wall-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/knee-to-chest-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/dolphin-pose-prep.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/legs-over-head.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/dolphin-pose-prep.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/legs-up-bolster.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/dolphin-pose-prep.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/legs-up-the-wall-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/plow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/legs-up-the-wall.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/plow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/lion-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/plow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/lizard-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/ear-pressure-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/lizard-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/ear-pressure-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/locust-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/ear-pressure-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/locust-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/feathered-peacock-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/lord-of-the-dance.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/feathered-peacock-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/lotus-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/feathered-peacock-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/low-backbend.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/handstand-prep.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/low-lunge.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/handstand-prep.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/melting-heart-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/handstand-prep.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/moon-salutation-sequence.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/boat-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/morning-yoga-routine.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/boat-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/mountain-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/boat-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/mountain-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/star-side-plank.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/one-legged-chair-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/star-side-plank.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/one-legged-king-pigeon-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/star-side-plank.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/peacock-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/crow-pose-preparation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/pigeon-pose-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/crow-pose-preparation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/pigeon-pose-supine.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/crow-pose-preparation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/pigeon-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/plank-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/plank-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/plank-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/plank-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/plank-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/plow-pose-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/crane-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/plow-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/crane-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/prayer-squat.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/crane-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/puppy-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/side-crow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/pyramid-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/side-crow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reclined-butterfly-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/side-crow-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reclined-twist-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/flying-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reclined-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/flying-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reclining-hero-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/flying-pigeon-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reclining-pigeon.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/eight-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reverse-plank.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/eight-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/reverse-warrior.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/eight-angle-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/revolved-chair-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/grasshopper-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/revolved-side-angle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/grasshopper-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/revolved-triangle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/grasshopper-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/revolved-triangle.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/peacock-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/sage-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/peacock-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/savasana-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/peacock-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/scorpion-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/thunderbolt-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/seated-angle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/thunderbolt-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/seated-forward-bend.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/thunderbolt-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/seated-forward-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/lion-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/seated-mountain-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/lion-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/seated-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/lion-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/seated-wide-angle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/cow-face-pose-arms.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/shoelace-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/cow-face-pose-arms.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/shoulder-stand-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/cow-face-pose-arms.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/shoulder-stand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/seated-mountain-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/side-crow-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/seated-mountain-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/side-plank-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/seated-mountain-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/side-plank-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/easy-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/side-plank.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/easy-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/sleeping-swan.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/easy-pose-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/snail-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/half-hero-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/sphinx-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/half-hero-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/square-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/half-hero-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/staff-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/supported-headstand.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/standing-bow-pulling-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/supported-headstand.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/standing-half-forward-bend.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/supported-headstand.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/standing-hand-to-big-toe-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/supported-shoulderstand.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/standing-split.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/supported-shoulderstand.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/star-side-plank.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/supported-shoulderstand.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/strength-building-sequence.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/reclined-butterfly-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/sun-salutation-b.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/reclined-butterfly-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/sun-salutation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/reclined-butterfly-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supine-butterfly.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/supported-child-s-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supine-spinal-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/supported-child-s-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supine-twist.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/supported-child-s-pose.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supported-bridge-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/savasana-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supported-child-s-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/savasana-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supported-fish-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/savasana-variation.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supported-headstand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/legs-up-bolster.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/supported-shoulderstand.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/legs-up-bolster.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/swan-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/legs-up-bolster.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/thunderbolt-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/moon-salutation-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/tortoise-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/moon-salutation-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/tree-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/moon-salutation-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/triangle-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/sun-salutation-b.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/upward-bow-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/sun-salutation-b.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/upward-bow-prep.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/sun-salutation-b.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/upward-dog.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/hip-opening-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/upward-facing-dog.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/hip-opening-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-i-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/hip-opening-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-i.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/morning-yoga-routine.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-ii.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/morning-yoga-routine.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-iii-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/morning-yoga-routine.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-iii.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/bedtime-yoga-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-iv.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/bedtime-yoga-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/warrior-lunge.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/bedtime-yoga-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/wheel-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/strength-building-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/wide-angle-seated-forward-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/strength-building-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/wide-legged-forward-fold.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/strength-building-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/wide-legged-standing-forward-fold-variation.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/poses/flexibility-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/wild-thing-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/ja/poses/flexibility-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/wind-relieving-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://t307239.github.io/yoga-wiki/pt/poses/flexibility-sequence.html</loc>
+    <loc>https://t307239.github.io/yoga-wiki/pt/yin-frog-pose.html</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
