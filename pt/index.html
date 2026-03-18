@@ -68,7 +68,8 @@ function filterYoga() {
   var q = document.getElementById('yoga-search').value.toLowerCase();
   document.querySelectorAll('.pose-card, .card').forEach(function(c) {
     var txt = c.textContent.toLowerCase();
-    var diffOk = _yf_diff === 'all' || c.querySelector('.diff-' + _yf_diff);
+    var hasDiff = c.querySelector('[class*="diff-"]');
+    var diffOk = _yf_diff === 'all' || c.querySelector('.diff-' + _yf_diff) || !hasDiff;
     c.style.display = (txt.indexOf(q) >= 0 && diffOk) ? '' : 'none';
   });
 }
