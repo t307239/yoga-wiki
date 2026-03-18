@@ -23,6 +23,20 @@ p{color:var(--muted);margin-bottom:32px;font-size:1.1rem}
 .lang-flag{font-size:2rem;margin-bottom:8px}
 .lang-name{font-weight:700}
 .stats{color:var(--muted);font-size:0.85rem;margin-top:8px}
+body{align-items:flex-start;flex-direction:column}
+.container{margin:32px auto 24px;width:100%}
+.search-wrap{max-width:860px;width:100%;margin:0 auto 16px;padding:0 8px}
+.search-wrap input{width:100%;padding:10px 16px;border-radius:10px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:1rem;outline:none}
+.search-wrap input:focus{border-color:var(--accent)}
+.pose-grid{max-width:860px;width:100%;margin:0 auto 40px;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;padding:0 8px}
+.pose-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px;transition:border-color .2s}
+.pose-card:hover{border-color:var(--accent)}
+.pose-card h3{font-size:.95rem;margin-bottom:8px}
+.pose-card h3 a{color:var(--text);text-decoration:none}
+.pose-card h3 a:hover{color:var(--accent)}
+.lang-links{display:flex;gap:6px}
+.lang-links a{font-size:.75rem;color:var(--muted);text-decoration:none;padding:2px 6px;border-radius:4px;background:var(--bg)}
+.lang-links a:hover{color:var(--accent)}
 </style>
 </head>
 <body>
@@ -34,7 +48,10 @@ p{color:var(--muted);margin-bottom:32px;font-size:1.1rem}
     <a href="ja/index.html" class="lang-btn"><div class="lang-flag">🇯🇵</div><div class="lang-name">日本語</div></a>
     <a href="pt/index.html" class="lang-btn"><div class="lang-flag">🇧🇷</div><div class="lang-name">Português</div></a>
   </div>
-  <p class="stats">61 poses · Free · No registration required</p>
+  <p class="stats">350+ poses · Free · No registration required</p>
+</div>
+<div class="search-wrap">
+  <input id="yoga-root-search" type="text" placeholder="🔍 Search yoga poses..." oninput="filterRootYoga()">
 </div>
 <div class="pose-grid">
     <div class="pose-card">
@@ -1494,5 +1511,13 @@ p{color:var(--muted);margin-bottom:32px;font-size:1.1rem}
       </div>
     </div>
 </div>
+<script>
+function filterRootYoga() {
+  var q = document.getElementById('yoga-root-search').value.toLowerCase().trim();
+  document.querySelectorAll('.pose-card').forEach(function(c) {
+    c.style.display = (!q || c.textContent.toLowerCase().indexOf(q) >= 0) ? '' : 'none';
+  });
+}
+</script>
 </body>
 </html>
