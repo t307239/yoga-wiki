@@ -202,12 +202,12 @@ def main():
             article = build_article(tech, lang, api_key)
             if article:
                 html = build_html(tech, article, lang, slug)
-                with open(out_path,"w") as f:
+                with open(out_path,"w",encoding="utf-8") as f:
                     f.write(html)
             time.sleep(1)
         generated[slug] = True
     
-    with open(base+"/generated.json","w") as f:
+    with open(base+"/generated.json","w",encoding="utf-8") as f:
         json.dump(generated, f)
     print("Done")
 
