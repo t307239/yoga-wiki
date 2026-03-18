@@ -53,6 +53,40 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid var(--border);text-
 </header>
 <h1>All Yoga Poses</h1>
 <p class="subtitle">Free multilingual yoga poses encyclopedia. 61 poses with step-by-step guides, benefits and tips in English, Japanese and Portuguese.</p>
+<div id="yoga-filter" style="margin-bottom:24px">
+  <input id="yoga-search" type="text" placeholder="🔍 Search poses..." oninput="filterYoga()" style="width:100%;padding:10px 16px;background:#131825;border:1px solid #1e2640;border-radius:8px;color:#e8eaf6;font-size:1rem;outline:none;box-sizing:border-box">
+  <div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap">
+    <button class="yf-btn yf-active" onclick="filterYogaDiff(this,'all')" style="padding:4px 14px;border-radius:99px;border:1px solid #7c6af7;background:#7c6af73a;color:#a78bfa;cursor:pointer;font-size:0.82rem">All</button>
+    <button class="yf-btn" onclick="filterYogaDiff(this,'beginner')" style="padding:4px 14px;border-radius:99px;border:1px solid #1e2640;background:transparent;color:#6b7699;cursor:pointer;font-size:0.82rem">Beginner</button>
+    <button class="yf-btn" onclick="filterYogaDiff(this,'intermediate')" style="padding:4px 14px;border-radius:99px;border:1px solid #1e2640;background:transparent;color:#6b7699;cursor:pointer;font-size:0.82rem">Intermediate</button>
+    <button class="yf-btn" onclick="filterYogaDiff(this,'advanced')" style="padding:4px 14px;border-radius:99px;border:1px solid #1e2640;background:transparent;color:#6b7699;cursor:pointer;font-size:0.82rem">Advanced</button>
+  </div>
+</div>
+<script>
+var _yf_diff = 'all';
+function filterYoga() {
+  var q = document.getElementById('yoga-search').value.toLowerCase();
+  document.querySelectorAll('.pose-card, .card').forEach(function(c) {
+    var txt = c.textContent.toLowerCase();
+    var diffOk = _yf_diff === 'all' || c.querySelector('.diff-' + _yf_diff);
+    c.style.display = (txt.indexOf(q) >= 0 && diffOk) ? '' : 'none';
+  });
+}
+function filterYogaDiff(btn, diff) {
+  _yf_diff = diff;
+  document.querySelectorAll('.yf-btn').forEach(function(b) {
+    b.style.background = 'transparent';
+    b.style.borderColor = '#1e2640';
+    b.style.color = '#6b7699';
+    b.classList.remove('yf-active');
+  });
+  btn.style.background = '#7c6af73a';
+  btn.style.borderColor = '#7c6af7';
+  btn.style.color = '#a78bfa';
+  btn.classList.add('yf-active');
+  filterYoga();
+}
+</script>
 <div class="grid">
 <a href="downward-dog.html" class="pose-card"><div class="pose-name">Downward Dog</div><div class="pose-sanskrit">Adho Mukha Svanasana</div><div class="pose-diff diff-beginner">Beginner</div></a>
 <a href="warrior-i.html" class="pose-card"><div class="pose-name">Warrior I</div><div class="pose-sanskrit">Virabhadrasana I</div><div class="pose-diff diff-beginner">Beginner</div></a>
